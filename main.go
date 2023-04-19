@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Fprint(os.Stdout, "Hello world\n")
+	fmt.Fprint(os.Stdout, "Hello worffld\n")
 }
